@@ -95,5 +95,4 @@ This project focuses on analyzing credit card customer demographics and transact
 ---
 
 ## 🖼️ Dashboard Preview
-
-![Dashboard Preview](Add your image link here)
+https://github.com/Gouri147/credit-card-analytics-dashboard/blob/main/customer%20report.png
