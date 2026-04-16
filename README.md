@@ -76,7 +76,7 @@ This project focuses on analyzing credit card customer demographics and transact
 ##  Project Files
 
 * Power BI Dashboard (.pbix)
-* Project Overview Document (PDF)
+* Project Overview Document (word)
 
 ---
 
@@ -88,11 +88,6 @@ This project focuses on analyzing credit card customer demographics and transact
 
 ---
 
-## 📬 Connect with Me
-
-* LinkedIn: (Add your link here)
-
----
-
 ## 🖼️ Dashboard Preview
 https://github.com/Gouri147/credit-card-analytics-dashboard/blob/main/customer%20report.png
+
