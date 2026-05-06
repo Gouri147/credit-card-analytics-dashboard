@@ -45,7 +45,7 @@ This project focuses on analyzing credit card customer demographics and transact
 
 ###  Transaction Dashboard
 
-* Total Revenue: **3M**
+* Total Revenue: **46M**
 * Current Week Revenue: **51K**
 * Previous Week Revenue: **47K**
 * Revenue Growth: **10.15%**
@@ -88,6 +88,4 @@ This project focuses on analyzing credit card customer demographics and transact
 
 ---
 
-## 🖼️ Dashboard Preview
-https://github.com/Gouri147/credit-card-analytics-dashboard/blob/main/customer%20report.png
 
